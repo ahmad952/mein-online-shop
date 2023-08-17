@@ -4,6 +4,16 @@
     padding-left: 32;
     padding-right: 32;
 }
+.shopping-card{
+width: 20vw;
+
+}
+
+.main-container{
+
+    display: flex;
+    gap: 32px;
+}
 
 @media (max-width: 850px ){
     .product-container{
